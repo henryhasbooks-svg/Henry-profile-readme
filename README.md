@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Henry Stokes
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+My name is Henry and I am into game developing! Me and my team are working on a project called Galivant! I hope to tell you all about it soon...
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
